@@ -1,6 +1,6 @@
 name = "shinyaigeek-worker"
 type = "webpack"
-account_id = "PhilisPaxil@gmail.com"
+account_id = "721b2de088d34f6738e630a082a345d7"
 workers_dev = true
 route = ""
 zone_id = ""
