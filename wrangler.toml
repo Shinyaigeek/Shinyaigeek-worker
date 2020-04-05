@@ -1,0 +1,6 @@
+name = "shinyaigeek-worker"
+type = "webpack"
+account_id = "PhilisPaxil@gmail.com"
+workers_dev = true
+route = ""
+zone_id = ""
